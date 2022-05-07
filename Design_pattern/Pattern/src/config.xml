@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+<!--    <chartType>pie</chartType>-->
+<!--    <className>factoryPattern.demo01.FileLoggerFactory</className>-->
+<!--    <className>abstractFactoryPattern.demo.SpringSkinFactory</className>-->
+<!--    <className>builderPattern.demo04.DevillBuilder</className>-->
+
+<!--    桥接-->
+<!--    RefinedAbstraction-->
+<!--    <className>bridge.demo.JPGImage</className>-->
+<!--    ConCreateImplement-->
+<!--    <className>bridge.demo.WindowsImp</className>-->
+
+<!--    <className>work.lab04.demo01.AmbulanceCarAdapter</className>-->
+    <className>work.lab08.demo.ChildrenDiscount</className>
+    <className>work.lab04.demo01.PoliceCarAdapter</className>
+    <className>work.lab02.TailgFactory</className>
+<!--    <className>work.lab02.AimaFactory</className>-->
+<!--    <className>work.lab02.YadeaFactory</className>-->
+    <className>work.lab02_1.SRfarm</className>
+    <className>work.lab02_1.SGfarm</className>
+
+</config>
